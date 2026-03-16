@@ -85,11 +85,9 @@ Agile / Scrum • Test-Driven Development
 
 ## 📚 Education  
 
-🎓 Master of Science in Computer Science  
-University of North Texas  
+🎓 Master of Science in Computer Science, University of North Texas  
 
-🎓 Bachelor’s Degree in Computer Science
-Andhra University
+🎓 Bachelor’s Degree in Computer Science, Andhra University
 
 ---
 
@@ -97,7 +95,7 @@ Andhra University
 
 💼 LinkedIn: https://linkedin.com/in/maheswar1908  
 📧 Email: golamarumaheswar@gmail.com  
-📞 Mobile: +1-469-794-9258
+📞 Mobile: +1 (469)-794-9258
 
 ---
 
