@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mahesh Golamaru  
+# Hi 👋 I'm Maheswara Reddy Golamaru  
 
 🚀 Full-Stack AI/ML Engineer | GenAI • LLM • RAG • MLOps • Cloud  
 📍 Dallas–Fort Worth, Texas, USA  
@@ -88,7 +88,8 @@ Agile / Scrum • Test-Driven Development
 🎓 Master of Science in Computer Science  
 University of North Texas  
 
-🎓 Bachelor’s Degree in Computer Science  
+🎓 Bachelor’s Degree in Computer Science
+Andhra University
 
 ---
 
@@ -96,6 +97,7 @@ University of North Texas
 
 💼 LinkedIn: https://linkedin.com/in/maheswar1908  
 📧 Email: golamarumaheswar@gmail.com  
+📞 Mobile: +1-469-794-9258
 
 ---
 
